@@ -1,0 +1,1 @@
+module.exports = require("/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/utils/typography")
