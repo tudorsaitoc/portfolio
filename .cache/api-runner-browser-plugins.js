@@ -13,7 +13,4 @@ module.exports = [{
     },{
       plugin: require('../node_modules/gatsby-plugin-nprogress/gatsby-browser.js'),
       options: {"plugins":[],"showSpinner":false},
-    },{
-      plugin: require('../node_modules/gatsby-plugin-google-gtag/gatsby-browser.js'),
-      options: {"plugins":[],"trackingIds":["UA-151335375-1"],"gtagConfig":{"anonymize_ip":true,"cookie_expires":0,"send_page_view":true,"cookie_name":"christianibarguen.com"},"pluginConfig":{"head":false,"respectDNT":false}},
     }]

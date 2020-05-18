@@ -17,7 +17,9 @@
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "*",
     "gatsby": "^2.18.12",
+    "gatsby-cli": "^2.12.22",
     "gatsby-plugin-google-gtag": "^2.1.1",
+    "gsap": "^3.2.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
   },

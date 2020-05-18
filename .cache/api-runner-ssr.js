@@ -16,9 +16,6 @@ var plugins = [{
     },{
       plugin: require('/Users/ts/dev/g/portfolio/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"exclude":["/experience/_additionalSkills"]},
-    },{
-      plugin: require('/Users/ts/dev/g/portfolio/node_modules/gatsby-plugin-google-gtag/gatsby-ssr'),
-      options: {"plugins":[],"trackingIds":["UA-151335375-1"],"gtagConfig":{"anonymize_ip":true,"cookie_expires":0,"send_page_view":true,"cookie_name":"christianibarguen.com"},"pluginConfig":{"head":false,"respectDNT":false}},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [

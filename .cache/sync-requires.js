@@ -5,7 +5,7 @@ const preferDefault = m => m && m.default || m
 
 
 exports.components = {
-  "component---cache-caches-gatsby-plugin-offline-app-shell-js": hot(preferDefault(require("/Users/ts/dev/g/portfolio/.cache/caches/gatsby-plugin-offline/app-shell.js"))),
+  "component---cache-dev-404-page-js": hot(preferDefault(require("/Users/ts/dev/g/portfolio/.cache/dev-404-page.js"))),
   "component---node-modules-christiandavid-gatsby-theme-byfolio-src-pages-404-js": hot(preferDefault(require("/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/pages/404.js"))),
   "component---node-modules-christiandavid-gatsby-theme-byfolio-src-pages-about-me-js": hot(preferDefault(require("/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/pages/about-me.js"))),
   "component---node-modules-christiandavid-gatsby-theme-byfolio-src-pages-experience-js": hot(preferDefault(require("/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/pages/experience.js"))),
