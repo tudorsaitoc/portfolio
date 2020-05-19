@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"pathToConfigModule":"/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/utils/typography"},
     },{
       plugin: require('/Users/ts/dev/g/portfolio/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"Tudor Saitoc","short_name":"2D","description":"This cool App contains information about my work experience as a software developer.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"src/images/icon.png"},
+      options: {"plugins":[],"name":"Portfolio ala Tudor Saitoc","short_name":"TS","description":"Responsive web app to showcase my experience and current projects.","lang":"en","start_url":"/","background_color":"#000","theme_color":"#fff","display":"standalone","icon":"src/images/icon.png"},
     },{
       plugin: require('/Users/ts/dev/g/portfolio/node_modules/gatsby-plugin-transition-link/gatsby-ssr'),
       options: {"plugins":[],"layout":"/Users/ts/dev/g/portfolio/node_modules/@christiandavid/gatsby-theme-byfolio/src/layout/index.js"},
