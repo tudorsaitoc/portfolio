@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@christiandavid/gatsby-theme-byfolio": "*",
-    "gatsby": "^2.18.12",
+    "gatsby": "^4.25.7",
     "gatsby-cli": "^2.12.22",
     "gatsby-plugin-google-gtag": "^2.1.1",
     "gsap": "^3.2.6",
